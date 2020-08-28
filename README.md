@@ -1,2 +1,2 @@
 # Blog-Flask
-Blog using Python-Flask 
+Simple Web App - Blog using Flask
